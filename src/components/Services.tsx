@@ -73,13 +73,31 @@ const Services = () => {
 
               <div className="bg-blue-50 rounded-lg p-6 mb-6">
                 <h4 className="font-bold text-gray-900 mb-3">Ideal para:</h4>
-                <div className="grid grid-cols-2 gap-2 text-gray-700">
-                  <span>• Festas de aniversário</span>
-                  <span>• Casamentos</span>
-                  <span>• Eventos corporativos</span>
-                  <span>• Confraternizações</span>
-                  <span>• Formaturas</span>
-                  <span>• Reuniões familiares</span>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-gray-700">
+                  <div className="flex items-center">
+                    <span className="mr-2">•</span>
+                    <span>Festas de aniversário</span>
+                  </div>
+                  <div className="flex items-center">
+                    <span className="mr-2">•</span>
+                    <span>Casamentos</span>
+                  </div>
+                  <div className="flex items-center">
+                    <span className="mr-2">•</span>
+                    <span>Eventos corporativos</span>
+                  </div>
+                  <div className="flex items-center">
+                    <span className="mr-2">•</span>
+                    <span>Confraternizações</span>
+                  </div>
+                  <div className="flex items-center">
+                    <span className="mr-2">•</span>
+                    <span>Formaturas</span>
+                  </div>
+                  <div className="flex items-center">
+                    <span className="mr-2">•</span>
+                    <span>Reuniões familiares</span>
+                  </div>
                 </div>
               </div>
 
@@ -144,13 +162,31 @@ const Services = () => {
 
               <div className="bg-green-50 rounded-lg p-6 mb-6">
                 <h4 className="font-bold text-gray-900 mb-3">Transportamos:</h4>
-                <div className="grid grid-cols-2 gap-2 text-gray-700">
-                  <span>• Móveis e eletrodomésticos</span>
-                  <span>• Mudanças pequenas</span>
-                  <span>• Materiais de construção</span>
-                  <span>• Equipamentos</span>
-                  <span>• Produtos diversos</span>
-                  <span>• E muito mais!</span>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-gray-700">
+                  <div className="flex items-center">
+                    <span className="mr-2">•</span>
+                    <span>Móveis e eletrodomésticos</span>
+                  </div>
+                  <div className="flex items-center">
+                    <span className="mr-2">•</span>
+                    <span>Mudanças pequenas</span>
+                  </div>
+                  <div className="flex items-center">
+                    <span className="mr-2">•</span>
+                    <span>Materiais de construção</span>
+                  </div>
+                  <div className="flex items-center">
+                    <span className="mr-2">•</span>
+                    <span>Equipamentos</span>
+                  </div>
+                  <div className="flex items-center">
+                    <span className="mr-2">•</span>
+                    <span>Produtos diversos</span>
+                  </div>
+                  <div className="flex items-center">
+                    <span className="mr-2">•</span>
+                    <span>E muito mais!</span>
+                  </div>
                 </div>
               </div>
 
