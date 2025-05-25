@@ -33,7 +33,7 @@ const About = () => {
             </div>
             <h3 className="text-xl font-bold text-gray-900 mb-2">Experiência</h3>
             <p className="text-gray-600">
-              Centenas de eventos realizados e milhares de fretes entregues
+              Anos de experiência atendendo clientes satisfeitos
             </p>
           </div>
 
@@ -73,30 +73,30 @@ const About = () => {
                 e atendimento personalizado. Cada cliente é tratado como família.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                Hoje, somos referência em locação de móveis para eventos e serviços de frete 
+                Hoje, oferecemos serviços de locação de móveis para eventos e frete 
                 no Rio de Janeiro, sempre priorizando a satisfação dos nossos clientes.
               </p>
             </div>
             
             <div className="grid grid-cols-2 gap-6">
               <div className="bg-white rounded-lg p-6 text-center shadow-lg">
-                <div className="text-3xl font-bold text-blue-600 mb-2">500+</div>
-                <div className="text-gray-600">Eventos Realizados</div>
+                <div className="text-3xl font-bold text-blue-600 mb-2">RJ</div>
+                <div className="text-gray-600">Atuação Local</div>
               </div>
               
               <div className="bg-white rounded-lg p-6 text-center shadow-lg">
-                <div className="text-3xl font-bold text-green-600 mb-2">1000+</div>
-                <div className="text-gray-600">Fretes Entregues</div>
+                <div className="text-3xl font-bold text-green-600 mb-2">24h</div>
+                <div className="text-gray-600">Atendimento</div>
               </div>
               
               <div className="bg-white rounded-lg p-6 text-center shadow-lg">
-                <div className="text-3xl font-bold text-purple-600 mb-2">98%</div>
-                <div className="text-gray-600">Satisfação</div>
+                <div className="text-3xl font-bold text-purple-600 mb-2">100%</div>
+                <div className="text-gray-600">Compromisso</div>
               </div>
               
               <div className="bg-white rounded-lg p-6 text-center shadow-lg">
-                <div className="text-3xl font-bold text-red-600 mb-2">5★</div>
-                <div className="text-gray-600">Avaliação Média</div>
+                <div className="text-3xl font-bold text-red-600 mb-2">❤️</div>
+                <div className="text-gray-600">Familiar</div>
               </div>
             </div>
           </div>
